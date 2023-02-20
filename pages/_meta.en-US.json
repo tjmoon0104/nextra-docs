@@ -1,0 +1,24 @@
+{
+  "*": {
+    "theme": {
+      "footer": false
+    }
+  },
+  "index": "Introduction",
+  "-- Data Privacy": {
+    "type": "separator",
+    "title": "Data Privacy"
+  },
+  "gdpr": "GDPR",
+  "-- Data Anonymization": {
+    "type": "separator",
+    "title": "Data Anonymization"
+  },
+  "k-anonymity": "K-Anonymity",
+  "-- About Me": {
+    "type": "separator",
+    "title": "About Me"
+  },
+  "about": "About Me",
+  "resume": "Resume"
+}

@@ -1,0 +1,24 @@
+{
+  "*": {
+    "theme": {
+      "footer": false
+    }
+  },
+  "index": "소개",
+  "-- 개인정보 보호": {
+    "type": "separator",
+    "title": "개인정보 보호"
+  },
+  "gdpr": "유럽 개인정보 보호 규제 GDPR",
+  "-- 데이터 익명화": {
+    "type": "separator",
+    "title": "데이터 익명화"
+  },
+  "k-anonymity": "K-익명화",
+  "-- About Me": {
+    "type": "separator",
+    "title": "About Me"
+  },
+  "about": "저자 소개",
+  "resume": "이력서"
+}
